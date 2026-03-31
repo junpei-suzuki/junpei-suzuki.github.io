@@ -1,0 +1,227 @@
+---
+title: "Junpei Suzuki"
+subtitle: "Junior Associate Professor of Political Science"
+author:
+  - name: Junpei Suzuki
+    affiliation: Komazawa University
+    email: jsuzuki060309@outlook.com
+date-modified: today
+
+format: 
+  html:
+    grid:
+      body-width: 1024px
+    highlight-style: a11y
+    toc: true
+    toc-location: right
+    toc-depth: 3
+  pdf:
+    pdf-engine: lualatex
+    documentclass: ltjsarticle
+    classoption:
+      - a4paper
+      - 11pt
+    # mainfont: Noto Serif CJK JP      # フォントは自分のPC環境に合わせて修正
+    # sansfont: Noto Sans CJK JP       # フォントは自分のPC環境に合わせて修正
+    # monofont: Noto Sans Mono CJK JP  # フォントは自分のPC環境に合わせて修正
+---
+
+## Appointments
+
+**Komazawa University** | Tokyo, Japan | 2026-present
+
+  - Junior Associate Professor, Department of Political Science, Faculty of Law
+
+**The University of Tokyo** | Tokyo, Japan | 2024--26
+
+ - JSPS Postdoctoral Fellow, Institute of Social Science
+
+**Waseda University** | Tokyo, Japan | 2021-24
+
+ - Research Associate, Faculty of Political Science and Economics
+
+## Education
+**Waseda University** | Tokyo, Japan | 2012-24
+
+ - **PhD in Political Science,** Graduate School of Political Science, Feburary 2024
+ 
+     - Dissertation Title: 先進諸国の左派政権：その政策と帰結 (=*Leftist Governments in Developed Countries: Their Policies and Consequences*)
+ 
+     - Committee: Magara Hideko (Chair), Ikuo Kume (Sub-chair), Junko Kato, Yuki Yanai
+ 
+     - Funded as a doctoral fellow of Japan Society for the Promotion of Science (JSPS Research Fellow DC2), 2019-21
+ 
+     - Awarded a full-amount repayment exemption of a student loan of the Japan Student Services Organization
+
+ - **MA in Political Science,** Graduate School of Political Science, March 2018
+
+   - Funded as a scholar of the Japanese Securities Scholarship Foundation
+
+   - Awarded a half-amount repayment exemption of a student loan of the Japan Student Services Organization
+
+ - **BA in Political Science,** School of Political Science and Economics, March 2016
+
+## Additional Training
+
+**The University of Tokyo,** Tokyo, Japan, 2025
+
+ - **UTokyo Future Faculty Program,** Center for Research and Development of Higher Education 
+
+**Essex University,** Colchester, UK, 2017; 2022
+
+ - **Essex Summer School,** held at Waseda University, Tokyo, Japan
+
+     - Courses: Maximum Likelihood Estimation (2017), Scaling Methods and Ideal Point Estimation (2022)
+
+**Australian National University**, Canberra, AU, 2021
+
+   - **ANU Online Summer School in Political Analysis,** School of Politics & International Relations
+
+     - Course: Bayesian Statistics
+
+**University of Michigan,** Ann Arbor, MI, 2018
+
+ - **ICPSR Summer Program in Quantitative Methods,** Inter-University Consortium for Political and Social Research
+
+    - Courses: Introduction to LaTeX, Introduction to R, Introductory/Review Lectures on Matrix Algebra, Longitudinal Data Analysis, Maximum Likelihood Estimation: Advanced Topics
+
+## Research Interests
+
+ - **Fields of interest:** Comparative political economy and political process in advanced democracies (including Japan and Europe)
+ - **Keywords:** Partisan Politics, Globalization, Economic Policies, Welfare States, Public Policies, Fiscal Policy, Protest Movements, Defence Spending, Environmental Policy
+
+## Works in progress
+ 1. ['Revisiting Partisan Politics of Environmental Policy: How Labour Market Outsiders Weaken Left-wing Governments' Eco-Friendliness'](https://doi.org/10.33774/apsa-2024-9cfm3-v3)
+
+ 1. ['Household Analogy Revisited: How do Japanese People Respond to Government Borrowing and Assets' ](https://doi.org/10.33774/apsa-2024-6r28m) (with Susumu Annaka, Takaharu Saito, and Gento Kato)
+
+ 1. ['Paying for Defence in High-Threat Environments: Political and Economic Divides over Defence Spending Expansions in Three Ex-Axis Countries'](https://doi.org/10.33774/apsa-2025-jrp45)
+ 
+ 1. 'Who Can Get Reelected after Fiscal Adjustment? Technocrat Finance Ministers, Partisan Theory, and the Electoral Cost of Budget Balancing ' (with Tatsuya Iseki and Susumu Annaka)
+
+ 1. 'Survey experiment on public assistance in Japan' (with Susumu Annaka and Kohei Tabei)
+
+ 1. 'Do Accommodative Strategy and Strategic Ambiguity Help Social Democratic Party? A Randomized Factorial Survey Experiment in Italy' (with Tatuya Iseki and Antonio Benasaglio Berlucchi)
+
+ 1. 'Japanese Attitudes toward Pandemic Triage' (with Susumu Annaka, Takaharu Saito, and Gento Kato)
+ 
+## Journal Articles
+
+ 1. Suzuki, Junpei. (2024). [A ‘leftist premium’ to protest movements?: How incumbent partisanship conditions austerity-spurred mass protest.](https://doi.org/10.1057/s41269-022-00283-2) *Acta Politica 59,* 124-144.
+
+ 1. (In Japanese) 安中進・鈴木淳平・加藤言人（2022）「[福祉国家に対する態度決定要因としての普遍的社会保障と逆進課税－消費増税に関するサーヴェイ実験－](https://doi.org/10.7218/nenpouseijigaku.73.1_212)」『年報政治学』72(1)，212-235．
+
+ 1. (In Japanese) 鈴木淳平（2019）「[グローバル化と党派政治―アウトサイダー層に着目した理論構築と法人税率のパネルデータ分析](https://www.jstage.jst.go.jp/article/nenpouseijigaku/70/2/70_2_208/_article/-char/ja/)」『年報政治学』70(2)，208-232．
+
+## Misc
+ 1. (In Japanese) 鈴木淳平（2024）「[書評：久米郁男編『なぜ自由貿易は支持されるのか――貿易政治の国際比較――』有斐閣2023 年vi + 194 ページ](https://doi.org/10.24765/ajiakeizai.65.4_121)」『アジア経済』64(5), 121-124．
+
+## Conference Presentations
+
+1. (In Japanese) **鈴木淳平**「Revisiting Partisan Politics of Environmental Policy: Are Left-wing Governments Always Eco-friendly?」日本政治学会、東京大学、2025年10月12日．
+
+1. **Suzuki, Junpei.** ‘Paying for Defence: Ideology and Public Support for Military Expansion.’ *American Political Science Association.* Vancouver, BC, Canada, 11 September 2025.
+
+1. (In Japanese) **鈴木淳平**「環境政策の党派政治再考－経済的敗者による逆転効果？－」日本比較政治学会、山梨大学、2023 年6月17日．
+
+1. **Suzuki, Junpei.** Susumu Annaka, Takaharu Saito, and Gento Kato ‘Household Analogy Revisited: How do Japanese People Respond to Government Borrowing and Assets.’ *Southern Political Science Association.* St. Pete’s Beach, FL, United States, 12 January 2023.
+
+1. (In Japanese) **鈴木淳平**・安中進・齋藤崇治・加藤言人「Household Analogy Revisited: How do Japanese People Respond to Government Borrowing and Assets?」公共選択学会、名古屋市立大学、2022年12 月4日．
+
+1. (In Japanese) **鈴木淳平**「危機の時代の中央銀行と党派的政府」日本政治学会、オンライン、2021年9月25日．
+
+1. (In Japanese) **鈴木淳平**「Political Economy in the Age of Austerity: How Incumbent Partisanship Affects Anti-Government Movements」計量・数理政治研究会、オンライン、2021 年7月3日．
+
+1. **Suzuki, Junpei.** ‘Twisted Fiscal Policy and Political Engagement.’ *American Political Science Association.* Online, 10 September 2020.
+
+1. (In Japanese) 安中進・**鈴木淳平**「消費税と世論の支持：逆進性と社会保障の普遍性」日本比較政治学会、オ
+ンライン、2020年6月27日〜28日．
+
+1. (In Japanese) **鈴木淳平**「グローバル化と経済政策をめぐる党派政治 －新しい理論枠組みの創出と法人税政策を対象とした実証分析」日本政治学会、関西大学、2018年10月13 日．
+
+1. **Suzuki, Junpei.** ‘Diverging Labor and Converging Corporate Tax Policy: A Revision of Partisanship Theory and an Implication for Democracy.’ *Society for the Advancement for Socio-Economics.* Kyoto, Kyoto, Japan, 23 July 2018.
+
+1. **Suzuki, Junpei.** ‘Divergent Interests and Convergent Tax Policy: Revision of Partisanship Theory.’ *Midwest Political Science Association.* Chicago, IL, United States, 7 April 2018.
+
+## Workshop Presentations
+
+1. **Suzuki, Junpei.** ‘Paying for Defence in High-threat Environments: Political and Economic Divides over Defence Spending Expansions in Three Ex-Axis Countries.’ *ISS PhD Kenkyu-kai.* University of Tokyo Institute of Science, 1 October 2025.
+
+1. (In Japanese) **鈴木淳平**「Ideology and Foreign Policy: How the Left-Right Divide Shapes Public Foreign Policy Attitudes」東京大学社会科学研究所若手研究者の会、オンライン、2025年2月25日．
+
+1. **Suzuki, Junpei.** ‘Revisiting Partisan Politics of Environmental Policy: Are Left-wing Governments Always Eco-friendly?.’ *Young Researcher’s Workshop & Book Talk by Professor Tarik Abou-Chadi.* The University of Tokyo, Komaba Campus, 13 March 2024.
+
+1. **Suzuki, Junpei.** ‘Perceptions on Government Budget and Preference on Fiscal Policy: Does "Household Analogy" Matter in Japan?.’ *Waseda-Hiroshima Joint Workshop.* Online, 21 December, 2021.
+
+1. (In Japanese) **鈴木淳平**「Protest Against ‘Twisted ‘ Austerity: How Partisanship Matters in the Context of Anti-government Movements」政治学若手研究者フォーラム、オンライン、2020年11月8日．
+
+## Research Grants
+
+1. (Principal Investigator)「軍事力に対する態度とイデオロギー：多国間サーベイ実験による研究」、科研費特別研究員奨励費、2024年4月-2027年3月．
+
+1. (Principal Investigator)「『バラモン左派』に対する有権者の認識：サーベイ実験による分析 」、財団せせらぎ助成金特別賞、2024年2月．
+
+1. (Principal Investigator)「財政健全化に対する党派的選好の「ねじれ」と安全保障：サーベイ実験による分析」、松下幸之助記念志財団研究助成、2022年10月-2023年9月．
+
+1. (Co-Investigator)「新福祉・成長ミックスの比較政治分析：先進諸国における社会的投資の包括的研究」、科研費基盤研究(A)、2019年4月-2023年3月．
+
+1. (Principal Investigator)「緊縮の政治経済学：資本主義と党派政治のパラドックス」、科研費特別研究員奨励費、2019年4月-2021年3月．
+
+## Teaching
+**Komazawa University**
+
+ - Political Process (2026)
+ 
+ - Introduction to Contemporary Political Analysis 1 (2026)
+ 
+ - Introduction to Contemporary Political Analysis 2 (2026)
+ 
+ - Basic Seminar (2026)
+ 
+ - Seminar I/II (2026)
+
+**Gakushuin University**
+
+ - International Political Economy I (2023, 2024, 2025, 2026)
+
+ - International Political Economy II (2023, 2024, 2025, 2026)
+
+**Waseda University**
+
+- Comparative Political Economy (2026)
+
+**Meiji Gakuin University**
+
+ - International Political Economy A（2024）
+
+ - International Political Economy B（2024）
+
+## Teaching Assistant
+
+**Waseda University**
+
+ - Introduction to Political Analysis (Prof. Masaru Kohno: 2018, 2020, 2023)
+ 
+ - Introduction to Political Analysis (Prof. Ikuo Kume: 2021, 2022)
+ 
+ - Research Methods in Political Science (Empirical Analysis) (Prof. Ikuo Kume: 2018)
+
+## Professional Affiliations
+
+ - Japanese Political Science Association
+ 
+ - Japan Association for Comparative Politics
+ 
+ - Japan Association of Electoral Studies
+ 
+ - American Political Science Association
+
+## Language & Skills
+
+ - **Languages**: Japanese (native), English (fluent), German (Diplom Deutsch in Japan Mittelstufe), Italian (Elementary reading & conversation), French (Elementary reading & conversation), Classic lating (Elementary reading), Korean (Elementary reading)
+
+ - **Skills**: R & RStudio, LaTeX, Quarto, Stata
+
+## References
+
+Availiable upon request.

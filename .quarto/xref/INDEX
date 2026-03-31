@@ -1,0 +1,42 @@
+{
+  "index.qmd": {
+    "index.html": "5cdb02c6"
+  },
+  "about.qmd": {
+    "about.html": "fbb970d9"
+  },
+  "cv.qmd": {
+    "cv.html": "10330c3c"
+  },
+  "research.qmd": {
+    "research.html": "90fb68b5"
+  },
+  "teaching.qmd": {
+    "teaching.html": "1caba14d"
+  },
+  "seminar.qmd": {
+    "seminar.html": "e7b6a859"
+  },
+  "cv/cv.qmd": {
+    "cv.html": "b2aa39f5"
+  },
+  "teaching/teaching.qmd": {
+    "teaching.html": "8e07da81"
+  },
+  "research/research.qmd": {
+    "research.html": "ab342289"
+  },
+  "seminar/seminar.qmd": {
+    "seminar.html": "e6130231"
+  },
+  "cv/full_cv.qmd": {
+    "full_cv.html": "0aa98286",
+    "full_cv.tex": "ffae2253"
+  },
+  "seminar/about_js.qmd": {
+    "about_js.html": "25021e23"
+  },
+  "seminar/member.qmd": {
+    "member.html": "8010a453"
+  }
+}

@@ -50,7 +50,7 @@ Junpei Suzuki is a Junior Associate Professor of Political Science at the Facult
 
 :::{.callout-warning}
 ### ご案内
-こちらは駒澤大学法学部講師の鈴木淳平のホームページです。授業とゼミ関係以外は英語が多くなっていますので、ご了承ください。
+こちらは駒澤大学法学部講師の鈴木淳平のホームページです。授業関係以外は英語が多くなっていますので、ご了承ください。
 
 - [CV](cv/cv.qmd): 鈴木の履歴書です。
 

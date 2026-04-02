@@ -38,5 +38,8 @@
   },
   "seminar/member.qmd": {
     "member.html": "8010a453"
+  },
+  "doc/cv/CV.qmd": {
+    "CV.html": "16e4cf68"
   }
 }

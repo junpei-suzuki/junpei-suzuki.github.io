@@ -1,10 +1,10 @@
 project:
   type: website
-  output-dir: doc
+  output-dir: docs
 
 website:
   title: "Junpei Suzuki PhD"
-  # google-analytics: "G-14289305692"
+  google-analytics: "G-14289305692"
   page-footer: "Copyright 2026, Junpei Suzuki"
   navbar:
     logo: "figs/portrait_ghibli_closeup.png"

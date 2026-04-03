@@ -5,9 +5,9 @@ subtitle: "My Current and Past Teaching"
 
 ### 駒澤大学 Komazawa University
 
- - 政治過程論 Political Process (2026)
+ - 政治過程論 Political Process ([2026](https://junpei-suzuki.github.io/PP-2026-Komazawa/))
  
- - 現代政治分析入門1 Introduction to Contemporary Political Analysis 1 (2026)
+ - 現代政治分析入門1 Introduction to Contemporary Political Analysis 1 ([2026](https://junpei-suzuki.github.io/ICPA1-2026-Komazawa/))
  
  - 現代政治分析入門2 Introduction to Contemporary Political Analysis 2 (2026)
  

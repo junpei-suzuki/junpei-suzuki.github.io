@@ -18,7 +18,7 @@ subtitle: "My Current and Past Teaching"
 
 ### 学習院大学 Gakushuin University
 
- - 国際政治経済I International Political Economy I (2023, 2024, 2025, [2026](https://junpei-suzuki.github.io/IPE1-2026-Gakushuin/))
+ - 国際政治経済I International Political Economy I (2023, 2024, 2025, [2026](https://junpei-suzuki.github.io/IPE1-2026-Gakushuin/)) 
 
  - 国際政治経済II International Political Economy II (2023, 2024, 2025, 2026)
 

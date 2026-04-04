@@ -32,27 +32,34 @@ Junpei Suzuki is a Junior Associate Professor of Political Science at the Facult
 
 :::
 
+::: {.callout-important}
+### 注意 | Caution
+同じ駒澤大学の総合教育研究部におられる**スポーツ医学・バレーボール専攻の鈴木淳平教授とは別人**ですので、郵便物を送られる際などはご注意ください（「法学部政治学科」とご指定ください）。
 
-:::{.callout-note}
+**Do not confuse me with Prof Junpei Suzuki of sports medicine and volley ball** at Komazawa's Arts & Sciences, particularly when you are sending postal items to me (please specify 'Department of Political Science, Faculty of Law').
+:::
+
+
+::: {.callout-note}
 ### News | ニュース
 
 ::: {.panel-tabset}
 #### English
 
-- **3 April 2026:** Updated the teaching page.
+- **4 April 2026:** Updated the teaching page etc.
 
 - **1 April 2026:** This website has been updated completely, following my arrival at Komazawa University.
 
 #### 日本語
 
-- **2026年4月1日：** Teachingページを更新しました。
+- **2026年4月4日：** Teachingページ等を更新しました。
 
 - **2026年4月1日：**駒澤大学着任に伴い、ホームページを全面的に改訂しました。
 
 :::
 :::
 
-:::{.callout-warning}
+:::{.callout-note}
 ### ご案内
 こちらは駒澤大学法学部講師の鈴木淳平のホームページです。授業関係以外は英語が多くなっていますので、ご了承ください。
 

@@ -6,10 +6,10 @@ subtitle: "Overview of Research Interests and Selected Pulbications"
 ## Research Interests
 
  - **Fields of interest:** Comparative political economy and political process in advanced democracies (including Japan and Europe)
- - **Keywords:** Partisan Politics, Globalization, Economic Policies, Welfare States, Public Policies, Fiscal Policy, Protest Movements, Defence Spending, Environmental Policy
+ - **Keywords:** Partisan Politics, Globalization, Economic Policies, Welfare States, Public Policies, Fiscal Policy, Protest Movements, Defence Spending, Environmental Policy, Official Development Aid
 
 ## Works in progress
- 1. ['Revisiting Partisan Politics of Environmental Policy: How Labour Market Outsiders Weaken Left-wing Governments' Eco-Friendliness'](https://doi.org/10.33774/apsa-2024-9cfm3-v3)
+ 1. ['Revisiting Partisan Politics of Environmental Policy: How Labour Market Outsiders Weaken Left-wing Governments' Eco-Friendliness'](https://doi.org/10.33774/apsa-2024-9cfm3-v3) R&R at *International Political Science Review.*
 
  1. ['Household Analogy Revisited: How do Japanese People Respond to Government Borrowing and Assets' ](https://doi.org/10.33774/apsa-2024-6r28m) (with Susumu Annaka, Takaharu Saito, and Gento Kato)
 
@@ -20,6 +20,8 @@ subtitle: "Overview of Research Interests and Selected Pulbications"
  1. 'Producer Right versus Consumer Left: Exploring Partisan Varieties of Environmental Policies in Advanced Economies' (with Serika Atsumi and Tatsuya Iseki)
 
  1. 'Survey experiment on public assistance in Japan' (with Susumu Annaka and Kohei Tabei)
+ 
+ 1. 'ODA and Voter Behavior' (with Takashi Nagatusuji)
 
  1. 'Do Accommodative Strategy and Strategic Ambiguity Help Social Democratic Party? A Randomized Factorial Survey Experiment in Italy' (with Tatuya Iseki and Antonio Benasaglio Berlucchi)
 

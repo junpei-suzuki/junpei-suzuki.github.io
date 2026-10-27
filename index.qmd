@@ -47,19 +47,19 @@ Junpei Suzuki is a Junior Associate Professor of Political Science at the Facult
 ::: {.panel-tabset}
 #### English
 
+- **24 October 2026:** [My book review]((https://doi.org/10.1093/ssjj/jyag025)) has been published at the *Social Science Japan Joural.*
+
 - **15 September 2026:** Updated the Teaching page.
 
 - **7 July 2026:** Gave a poster presentation at the JSQPS 2026 Summer Meeting.
 
-- **27 June 2026:** Presented at a roundtable of the Japan Society for International Development.
-
 #### 日本語
+
+- **2026年10月24日：**[書評]((https://doi.org/10.1093/ssjj/jyag025))がSocial Science Japan Journal誌で公開されました。
 
 - **2026年9月15日：**Teachingページを更新しました。
 
 - **2026年7月5日：** JSQPS2026年度夏季集会にてポスター発表を行いました。
-
-- **2026年6月27日：** 国際開発学会ラウンドテーブルにて発表しました。
 
 :::
 :::

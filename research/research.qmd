@@ -11,9 +11,9 @@ subtitle: "Overview of Research Interests and Selected Pulbications"
 ## Publications
 ::: {.panel-tabset}
 ### Articles
- 1. Suzuki, Junpei, Annaka, Susumu, Saito, Takaharu, & Kato, Gento. (in press). Household Budget Analogy Revisited: How Do Japanese People Respond to State Bankruptcy and Assets? *Social Science Japan Journal. * [Preprint](https://doi.org/10.33774/apsa-2024-9cfm3-v3)
+ 1. Suzuki, Junpei, Annaka, Susumu, Saito, Takaharu, & Kato, Gento. (in press). Household Budget Analogy Revisited: How Do Japanese People Respond to State Bankruptcy and Assets? *Social Science Japan Journal. * [Preprint](https://doi.org/10.33774/apsa-2024-6r28m)
 
- 1. Suzuki, Junpei. (in press). Revisiting Partisan Politics of Environmental Policy: How Labour Market Outsiders Weaken Left-wing Governments’ Eco-Friendliness. *International Political Science Review.* [Preprint](https://doi.org/10.33774/apsa-2024-6r28m)
+ 1. Suzuki, Junpei. (in press). Revisiting Partisan Politics of Environmental Policy: How Labour Market Outsiders Weaken Left-wing Governments’ Eco-Friendliness. *International Political Science Review.* [Preprint](https://doi.org/10.33774/apsa-2024-9cfm3-v3)
 
  1. Suzuki, Junpei. (2024). [A ‘leftist premium’ to protest movements?: How incumbent partisanship conditions austerity-spurred mass protest.](https://doi.org/10.1057/s41269-022-00283-2) *Acta Politica 59,* 124-144.
 
